@@ -38,3 +38,9 @@ scanf("%d",&a);
 ##### Insert an image
 ![My image](![Screenshot (886)](https://github.com/user-attachments/assets/c284de5a-2b05-458e-be6c-103ef048d059)
 )
+
+### To insert table
+
+|Name|college|
+|----|----|
+|Philip|Nuzvid|
