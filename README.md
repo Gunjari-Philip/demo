@@ -36,4 +36,5 @@ scanf("%d",&a);
 [Google](www.google.com)
 
 ##### Insert an image
-![My image](https://www.google.com/imgres?q=images&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F414612%2Fpexels-photo-414612.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-souvenirpixels-414612.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbeautiful%2F&docid=B51x0PBR9KNzvM&tbnid=oXTudgfT3pqXSM&vet=12ahUKEwiVoMm_0u2NAxXgxjgGHZtSHSYQM3oECB0QAA..i&w=5306&h=3770&hcb=2&itg=1&ved=2ahUKEwiVoMm_0u2NAxXgxjgGHZtSHSYQM3oECB0QAA)
+![My image](![Screenshot (886)](https://github.com/user-attachments/assets/c284de5a-2b05-458e-be6c-103ef048d059)
+)
