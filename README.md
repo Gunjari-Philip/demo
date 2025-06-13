@@ -30,4 +30,7 @@ scanf("%d",&a);
 }
 ```
 ###### Horizontal line
------------
+----
+
+###### Insert any url
+[Google](www.google.com)
